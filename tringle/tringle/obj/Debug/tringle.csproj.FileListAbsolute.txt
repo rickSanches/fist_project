@@ -1,0 +1,9 @@
+C:\Users\vladislav.zhovklyy\Documents\github\tringle\tringle\bin\Debug\tringle.exe.config
+C:\Users\vladislav.zhovklyy\Documents\github\tringle\tringle\obj\Debug\tringle.exe
+C:\Users\vladislav.zhovklyy\Documents\github\tringle\tringle\obj\Debug\tringle.pdb
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\tringle\bin\Debug\tringle.exe.config
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\tringle\bin\Debug\tringle.exe
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\tringle\bin\Debug\tringle.pdb
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\tringle\obj\Debug\tringle.csprojResolveAssemblyReference.cache
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\tringle\obj\Debug\tringle.exe
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\tringle\obj\Debug\tringle.pdb

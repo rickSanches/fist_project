@@ -1,0 +1,7 @@
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\testTriangle\obj\Debug\testTriangle.csprojResolveAssemblyReference.cache
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\testTriangle\bin\Debug\testTriangle.dll
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\testTriangle\bin\Debug\testTriangle.pdb
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\testTriangle\bin\Debug\tringle.exe
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\testTriangle\bin\Debug\tringle.pdb
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\testTriangle\obj\Debug\testTriangle.dll
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\tringle\testTriangle\obj\Debug\testTriangle.pdb
